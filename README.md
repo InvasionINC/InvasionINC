@@ -32,7 +32,7 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### 🔥 &nbsp; My Stats :
-<r>
+<div>
   <table align="center">
           <tr>
               <td><a href="https://t.me/KosmoNavtDeveloper">C++</a> - 70% ; I always program</td>
@@ -55,6 +55,7 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
               <td><a href="https://t.me/KosmoNavtDeveloper">Golang</a> - 30% ; I don't always program</td>
           </tr>
   </table>
-</r>
+</div>
+---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
