@@ -56,6 +56,6 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
           </tr>
   </table>
 </div>
----
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
