@@ -13,7 +13,7 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages :
 
 <p>
 <div align="center">
