@@ -6,10 +6,10 @@
 ### :woman_technologist: &nbsp; About Me :
 
 I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 🔭 I’m fullstack-developer.
+- 🌱 I love programming in C++ and Python.
+- ⚡ I'm developing my game.
+- ✈️ My Telegram: &nbsp; [![Telegram](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/Kosmonavt001)
 
 ---
 
