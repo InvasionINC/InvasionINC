@@ -58,7 +58,7 @@ I am a programmer from Russia! <img src="https://media.giphy.com/media/WUlplcMpO
             <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
             <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">gnome-extension-wakwaka</a> - Gnome-extension</td>
         </tr>
-    </table>
+</table>
 ---
 
 ### ✍️ Blog Posts : 
